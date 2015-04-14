@@ -1,4 +1,4 @@
-#  Follow the steps below
+#Please follow steps as below
 
 1. mkdir build
 2. cd build
